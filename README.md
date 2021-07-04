@@ -1,6 +1,5 @@
 # SQL - Employee Database
 
-![sql.png](sql.png)
 
 ## Background
 
